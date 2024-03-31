@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045462477063",
+    "project_id": "newappchatkotlin",
+    "storage_bucket": "newappchatkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045462477063:android:2b1a388b74fcaba1fefda2",
+        "android_client_info": {
+          "package_name": "com.example.appchat_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByuU9c2ejdzlLbKCs32o05tqe94K0jAcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045462477063:android:e2cd9eeee5ac2fe2fefda2",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByuU9c2ejdzlLbKCs32o05tqe94K0jAcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
