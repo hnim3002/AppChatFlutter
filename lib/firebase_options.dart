@@ -48,21 +48,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyByuU9c2ejdzlLbKCs32o05tqe94K0jAcc',
-    appId: '1:1045462477063:android:e2cd9eeee5ac2fe2fefda2',
-    messagingSenderId: '1045462477063',
-    projectId: 'newappchatkotlin',
-    storageBucket: 'newappchatkotlin.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCrdveWdxCBfu5LBjacC5of_2S8PqJeAzI',
-    appId: '1:1045462477063:ios:99acc880830e9338fefda2',
-    messagingSenderId: '1045462477063',
-    projectId: 'newappchatkotlin',
-    storageBucket: 'newappchatkotlin.appspot.com',
-    iosBundleId: 'com.example.flashChatFlutter',
-  );
 }
